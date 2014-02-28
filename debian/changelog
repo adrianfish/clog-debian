@@ -1,0 +1,5 @@
+clog (0.9.5-SNAPSHOT-1) unstable; urgency=low
+
+  * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+
+ -- Adrian Fish <a.fish@lancaster.ac.uk>  Fri, 28 Feb 2014 12:40:54 +0000
